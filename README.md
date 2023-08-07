@@ -1,7 +1,7 @@
 ![Cigdem](https://www.inet.tu-berlin.de/fileadmin/fg234/People_portraits/cigdem-scaled.jpg)
 
 Hi, I am Cigdem.
-I am a senior lecturer at Brunel University, and love working on IoT, data protection, security and privacy, and standards. 
+I am a reader at Brunel University, and love working on IoT, data protection, security and privacy, and standards. 
 I am also a big fan of micro:bit, have co-authored two books teaching networking with micro:bit.
 
 
